@@ -19,7 +19,7 @@ namespace HelloWorld
 
         private void btnGo_Click(object sender, EventArgs e)
         {
-            txtShow.Text = "Hello World!"; //你可以直接複製貼過去
+            txtShow.Text = "Hello World!123"; //你可以直接複製貼過去
         }
     
     }
