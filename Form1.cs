@@ -20,7 +20,7 @@ namespace HelloWorld
         private void btnGO_Click(object sender, EventArgs e)
         {
             textBox1.Text = "佛光大學"; //你可以直接複製貼過去
-            txtShow.Text = "川普很帥";
+            txtShow.Text = "川普很帥123";
         }
     }
 }
